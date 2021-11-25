@@ -1,4 +1,4 @@
 my project...
 1.
-2. Vilnius 
-3. ...
+<<<<<<< HEAD
+2. Vilnius && Kaunas
